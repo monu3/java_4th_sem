@@ -1,0 +1,14 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Âé’ùÿÿÿÿ8ú÷ğ€Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¹¿ô8ú÷ğ€Ñ1
+L	java:S106#"+Replace this use of System.out by a logger.(¹Ş„ ùÿÿÿÿ8û÷ğ€Ñ1
+F	java:S106$"+Replace this use of System.out by a logger.(àÎÑi8û÷ğ€Ñ1
+F	java:S106%"+Replace this use of System.out by a logger.(ıÒ¿*8û÷ğ€Ñ1
+L	java:S106&"+Replace this use of System.out by a logger.(˜ØëÔşÿÿÿÿ8û÷ğ€Ñ1
+G	java:S106'"+Replace this use of System.out by a logger.(ˆØ¤„8û÷ğ€Ñ1
+L	java:S106("+Replace this use of System.out by a logger.(ùÌšÏüÿÿÿÿ8û÷ğ€Ñ1
+F	java:S106)"+Replace this use of System.out by a logger.(İ±Øi8û÷ğ€Ñ1
+G	java:S106:"+Replace this use of System.out by a logger.(ÍêÊ›8ı÷ğ€Ñ1
+L	java:S106="+Replace this use of System.out by a logger.(‘§›¦ùÿÿÿÿ8ı÷ğ€Ñ1
+N
+java:S1128	",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8äáÒÑ1

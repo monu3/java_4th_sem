@@ -1,0 +1,13 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "circle3".(êˆŒÑ8Ì™€¶Î1
+W
+java:S1854";Remove this useless assignment to local variable "circle2".(¬™E8Şõ€¶Î1
+H
+java:S1481",Remove this unused "circle2" local variable.(¬™E8àõ€¶Î1
+I
+java:S1481",Remove this unused "circle3" local variable.(êˆŒÑ8àõ€¶Î1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8àõ€¶Î1
+F	java:S106"+Replace this use of System.out by a logger.(Ôò%8öô£¶Î1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8±‡¨¶Î1
